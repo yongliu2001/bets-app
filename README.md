@@ -1,6 +1,6 @@
-#Bet Application
+# Bet Application
 
-##How to Run
+## How to Run
 
 The application is spring boot app, so it's very easy to setup.
 
@@ -18,7 +18,7 @@ java -jar target/bets-app-0.0.1-SNAPSHOT.jar
 ```
 
 
-###Rest interface 
+### Rest interface 
 
 The application has jwt enabled to secure the request. 
 so to be able to successfully visit the service, we need to register a user.
